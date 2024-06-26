@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Ajmal-A
+- 👀 I’m interested in Robotics, Artificial Intelligence, and Mechanical Design.
+- 🌱 I’m currently learning Python, OpenCV, ROS, Arduino, and CAD for my diploma in Robotics & AI.
+- 💞️ I’m looking to collaborate on robotics projects, AI applications, and innovative mechanical designs.
+- 📫 How to reach me: LinkedIn - [Ajmal-A](https://www.linkedin.com/in/ajmal-a/), Email - aju8759@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I built my first robot inspired by the movie Enthiran and I'm passionate about creating robots that can interact intelligently with humans.
